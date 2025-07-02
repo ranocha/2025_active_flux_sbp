@@ -1,0 +1,33 @@
+{
+    "license": "MIT",
+    "title": "Reproducibility repository for Proving Stability of the Active Flux Method in the Framework of Summation-by-Parts Operators",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Institut de Mathématiques de Bordeaux, Université de Bordeaux, France",
+            "name": "Barsukow, Wasilij"
+        },
+        {
+            "affiliation": "Würzburg University, Germany",
+            "name": "Klingenberg, Christian"
+        },
+        {
+            "affiliation": "Würzburg University, Germany",
+            "name": "Lechner, Lisa"
+        },
+        {
+            "affiliation": "Linköping University, Sweden",
+            "name": "Nordström, Jan"
+        },
+        {
+            "affiliation": "Institute of Mathematics, University of Kassel, Germany",
+            "name": "Ortleb, Sigrun"
+        },
+        {
+            "affiliation": "Institute of Mathematics, Johannes Gutenberg University Mainz, Germany",
+            "name": "Ranocha, Hendrik",
+            "orcid": "0000-0002-3456-2277"
+        }
+    ],
+    "access_right": "open"
+}
