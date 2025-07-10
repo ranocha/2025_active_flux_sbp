@@ -23,7 +23,7 @@ in the article
 If you find these results useful, please cite the article mentioned above. If you
 use the implementations provided here, please **also** cite this repository as
 ```bibtex
-@misc{barsukow2025provingRepro,
+@misc{barsukow2025stabilityRepro,
   title={Reproducibility repository for
          "{S}tability of the Active Flux Method in the
          Framework of Summation-by-Parts Operators"},
