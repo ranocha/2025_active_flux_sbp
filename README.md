@@ -50,7 +50,7 @@ Julia v1.10.9.
 
 First, you need to download this repository, e.g., by cloning it with `git`
 or by downloading an archive via the GitHub interface. Then, you need to start
-Julia in the `code` directory of this repository and follow the instructions
+Julia in the `code_julia` directory of this repository and follow the instructions
 described in the `README.md` file therein.
 
 
