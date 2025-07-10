@@ -6,8 +6,8 @@
 This repository contains information and code to reproduce the results presented
 in the article
 ```bibtex
-@online{barsukow2025proving,
-  title={Proving Stability of the Active Flux Method in the
+@online{barsukow2025stability,
+  title={Stability of the Active Flux Method in the
          Framework of Summation-by-Parts Operators},
   author={Barsukow, Wasilij and Klingenberg, Christian and
           Lechner, Lisa and Nordstr{\"o}m, Jan and Ortleb, Sigrun
@@ -25,7 +25,7 @@ use the implementations provided here, please **also** cite this repository as
 ```bibtex
 @misc{barsukow2025provingRepro,
   title={Reproducibility repository for
-         "{P}roving Stability of the Active Flux Method in the
+         "{S}tability of the Active Flux Method in the
          Framework of Summation-by-Parts Operators"},
   author={Barsukow, Wasilij and Klingenberg, Christian and
           Lechner, Lisa and Nordstr{\"o}m, Jan and Ortleb, Sigrun
