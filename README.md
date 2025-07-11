@@ -1,4 +1,4 @@
-# Proving Stability of the Active Flux Method in the Framework of Summation-by-Parts Operators
+# Stability of the Active Flux Method in the Framework of Summation-by-Parts Operators
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15861045.svg)](https://zenodo.org/doi/10.5281/zenodo.15861045)
