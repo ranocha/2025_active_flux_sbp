@@ -1,7 +1,7 @@
 # Proving Stability of the Active Flux Method in the Framework of Summation-by-Parts Operators
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://zenodo.org/doi/TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15861045.svg)](https://zenodo.org/doi/10.5281/zenodo.15861045)
 
 This repository contains information and code to reproduce the results presented
 in the article
@@ -32,7 +32,7 @@ use the implementations provided here, please **also** cite this repository as
           and Ranocha, Hendrik},
   year={2025},
   howpublished={\url{https://github.com/ranocha/2025_active_flux_sbp}},
-  doi={TODO}
+  doi={10.5281/zenodo.15861045}
 }
 ```
 
