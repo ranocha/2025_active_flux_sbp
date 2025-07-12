@@ -38,7 +38,7 @@ use the implementations provided here, please **also** cite this repository as
 
 ## Abstract
 
-The Active Flux method is a numerical method for conservation laws using a combination of cell averages and point values, based on ideas from finite volumes and finite differences. This seemingly unusual mix has been shown to work well in many situations. We expand the theoretical justifications of the Active Flux method by analyzing it from the point of view of summation-by-parts (SBP) operators, which have been used routinely to analyze finite difference, finite-volume and discontinuous Galerkin schemes. We demonstrate that the Active Flux method can be formulated using degenerate SBP operators, yielding a first and novel approach to show energy stability of the Active Flux method.
+The Active Flux method is a numerical method for conservation laws using a combination of cell averages and point values, based on ideas from finite volumes and finite differences. This unusual mix has been shown to work well in many situations. We expand the theoretical justifications of the Active Flux method by analyzing it from the point of view of summation-by-parts (SBP) operators, which are routinely used to analyze finite difference, finite volume, and finite element schemes. We show that the Active Flux method can be formulated using degenerate SBP operators, yielding a first and novel approach for showing the energy stability of the Active Flux method.
 
 
 ## Numerical experiments
