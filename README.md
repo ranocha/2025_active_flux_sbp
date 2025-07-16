@@ -14,7 +14,7 @@ in the article
           and Ranocha, Hendrik},
   year={2025},
   month={07},
-  eprint={TODO},
+  eprint={2507.11068},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
