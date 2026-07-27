@@ -6,14 +6,18 @@
 This repository contains information and code to reproduce the results presented
 in the article
 ```bibtex
-@online{barsukow2025stability,
+@article{barsukow2026stability,
   title={Stability of the Active Flux Method in the
          Framework of Summation-by-Parts Operators},
   author={Barsukow, Wasilij and Klingenberg, Christian and
           Lechner, Lisa and Nordstr{\"o}m, Jan and Ortleb, Sigrun
           and Ranocha, Hendrik},
-  year={2025},
+  journal={BIT Numerical Mathematics},
+  volume={66},
+  year={2026},
   month={07},
+  pages={49},
+  doi={10.1007/s10543-026-01144-6},
   eprint={2507.11068},
   eprinttype={arxiv},
   eprintclass={math.NA}
